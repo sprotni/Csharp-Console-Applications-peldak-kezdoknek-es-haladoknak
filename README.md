@@ -8,6 +8,8 @@ Ne csak lemásold hanem próbáld megérteni a működését! Gépeld be újra ,
 Köszönöm, hogy elolvastad!
 --
 Az itt található forrásokra az alábbi típusba sorolható license érvényes:
-https://creativecommons.org/licenses/by-nc-sa/2.5/hu/legalcode
 --
+https://creativecommons.org/licenses/by-nc-sa/2.5/hu/legalcode
+
 Nevezd meg! - Ne add el! - Így add tovább!
+--
